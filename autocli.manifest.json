@@ -1,0 +1,11 @@
+{
+  "project_id": "st_20260924_wk4cyh",
+  "prompt": "Landing para una panaderia de masa madre",
+  "model": "space-bunny-free",
+  "files": [
+    "index.html",
+    "styles.css",
+    "app.js"
+  ],
+  "created_at": "2026-09-24T18:25:56+00:00"
+}
